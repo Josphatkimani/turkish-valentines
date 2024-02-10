@@ -1,4 +1,4 @@
-# Turkish_valentines
+# Turkish_icecream_valentines
 Inspired by Gaurav Scripts Turkish Ice Cream Sign-in.
 Click here to visit the [repository](https://github.com/GauravScripts/Turkish_icecream_sign_in).
 

@@ -4,7 +4,7 @@ Click here to visit the [repository](https://github.com/GauravScripts/Turkish_ic
 
 This version features a No button that 'runs away'
 
-![Turkish GIF](https://github.com/Raph-royalty/turkish-valentines/blob/main/demo/turkish.gif)
+![Turkish GIF](https://github.com/Raph-royalty/turkish-valentines/blob/main/public/demo/turkish.gif)
 
 [Click here to visit the demo](https://mypenzi.web.app)
 
